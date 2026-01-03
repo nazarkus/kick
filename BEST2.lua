@@ -4,7 +4,7 @@ local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 local White = true
 
 local WhiteList = {
-"C017884D-908B-4482-ACDB-2E4A3C1476CF"
+"C017884D-908B-4482-ACDB-2E4A3C1476CF",
 "415F92CD-908A-464C-9123-9CFD3ECE330E"
 }
 
