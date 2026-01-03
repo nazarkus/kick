@@ -5,7 +5,7 @@ local White = true
 
 local WhiteList = {
 "C017884D-908B-4482-ACDB-2E4A3C1476CF"
--- Назар
+"415F92CD-908A-464C-9123-9CFD3ECE330E"
 }
 
 for index = 1, #WhiteList do
